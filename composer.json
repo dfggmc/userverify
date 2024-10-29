@@ -1,7 +1,6 @@
 {
     "name": "dfggmc/userverify",
     "type": "library",
-    "version": "dev-main",
     "description": "这是一套集成用户注册、登录、验证码、邮箱验证的整合包",
     "license": "Apache License 2.0",
     "authors": [
