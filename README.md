@@ -7,7 +7,7 @@
 通过 Composer 安装：
 
 ```bash
-composer require xiaofeng/userverify
+composer require dfggmc/userverify
 ```
 
 ## 使用：
